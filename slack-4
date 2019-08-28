@@ -2572,3 +2572,5 @@ span.c-message__body, a.c-message__sender_link, span.c-message_attachment__media
     .p-member_profile_card {
     box-shadow: 0 0 0 1px rgba(0,0,0,.08), 0 4px 12px 0 rgba(0,0,0,.08);
     background: #333;}
+
+    .p-notification_bar__section .p-notification_bar__typing { color: #cc2759 !important }
